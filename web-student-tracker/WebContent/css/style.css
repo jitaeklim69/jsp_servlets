@@ -8,7 +8,7 @@ table {
 	border-collapse:collapse;
 	border-bottom:1px solid gray;
 	font-family: Tahoma,Verdana,Segoe,sans-serif;
-	width:80%;
+	width:100%;
 	margin: auto;
 }
  
@@ -29,7 +29,7 @@ tr:nth-child(odd) {background: #BBBBBB}
  
 #wrapper {width: 80%; margin: 0px auto; }
 #header { background: #0775d3; margin-top: 0px; padding:15px 0px 15px 0px;}
-#header h2 {width: 100%; margin:auto; color: #FFFFFF;}
+#header h2 {width: 100%; margin:auto; color: #FFFFFF; text-align: center;}
 #container {width: 80%; margin:auto}
 #container h3 {color: #000;}
 #container #content {margin-top: 20px;}
