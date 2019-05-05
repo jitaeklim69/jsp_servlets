@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.study.dao.StudentDataUtil;
 import org.study.model.Student;
 
-@WebServlet("/MvcDemoServlet")
+@WebServlet("/MvcDemoServlet2")
 public class MvcDemoServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
