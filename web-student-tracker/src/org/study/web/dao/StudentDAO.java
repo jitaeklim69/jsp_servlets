@@ -83,6 +83,11 @@ public class StudentDAO {
 		}
 	}
 
+	public void addStudent(Student theStudent) {
+		
+		
+	}
+
 }
 
 
